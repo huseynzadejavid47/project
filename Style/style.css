@@ -1,0 +1,27 @@
+*{
+  margin: 0;
+  padding: 0;
+}
+
+html,
+body{
+  width: 100%;
+  height: auto;
+}
+
+div{
+  width: 300px;
+  height: 400px;
+}
+
+.top{
+  background-color: bisque;
+}
+
+.middle{
+  background-color: blue;
+}
+
+.bottom{
+  background-color: chartreuse;
+}
